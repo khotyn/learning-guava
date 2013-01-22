@@ -17,7 +17,7 @@ import com.google.common.collect.Table;
 import com.google.common.collect.Table.Cell;
 
 /**
- * Ê¹ÓÃÁ½¸öÖµÀ´×÷ÎªÒ»¸ö map µÄ key£¬Ò»¸ö column£¬Ò»¸ö row£¬ËùÒÔ¾Í¹¹³ÉÁËÒ»¸ö table¡£
+ * ä½¿ç”¨ä¸¤ä¸ªå€¼æ¥ä½œä¸ºä¸€ä¸ª map çš„ keyï¼Œä¸€ä¸ª columnï¼Œä¸€ä¸ª rowï¼Œæ‰€ä»¥å°±æ„æˆäº†ä¸€ä¸ª tableã€‚
  * 
  * @author khotyn.huangt Jan 16, 2013 9:56:52 PM
  */

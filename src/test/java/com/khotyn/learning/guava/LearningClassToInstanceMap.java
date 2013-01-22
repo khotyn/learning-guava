@@ -14,8 +14,8 @@ import com.google.common.collect.ClassToInstanceMap;
 import com.google.common.collect.MutableClassToInstanceMap;
 
 /**
- * ÀàĞÍµ½ÊµÀıµÄ Map£¬×÷ÓÃÊÇÊ²Ã´£¿»¹ÓĞÎÄµµÀïÃæµÄ ¡°Like any other Map<Class, Object>, a ClassToInstanceMap may contain entries for primitive
- * types, and a primitive type and its corresponding wrapper type may map to different values.¡± µ½µ×ÊÇÊ²Ã´ÒâË¼£¿
+ * ç±»å‹åˆ°å®ä¾‹çš„ Mapï¼Œä½œç”¨æ˜¯ä»€ä¹ˆï¼Ÿè¿˜æœ‰æ–‡æ¡£é‡Œé¢çš„ â€œLike any other Map<Class, Object>, a ClassToInstanceMap may contain entries for primitive
+ * types, and a primitive type and its corresponding wrapper type may map to different values.â€ åˆ°åº•æ˜¯ä»€ä¹ˆæ„æ€ï¼Ÿ
  * 
  * @author khotyn.huangt Jan 16, 2013 10:08:15 PM
  */

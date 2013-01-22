@@ -14,7 +14,7 @@ import com.google.common.collect.BiMap;
 import com.google.common.collect.HashBiMap;
 
 /**
- * Ë«ÏòÓ³ÉäµÄ Map
+ * åŒå‘æ˜ å°„çš„ Map
  * 
  * @author khotyn.huangt Jan 15, 2013 11:06:26 PM
  */

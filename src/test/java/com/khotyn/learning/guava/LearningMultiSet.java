@@ -18,7 +18,7 @@ import com.google.common.collect.Multiset;
 import com.google.common.collect.Multiset.Entry;
 
 /**
- * MultiSet£¬ÓÃÀ´¼ÆÊı·Ç³£²»´í°¡¡£
+ * MultiSetï¼Œç”¨æ¥è®¡æ•°éå¸¸ä¸é”™å•Šã€‚
  * 
  * @author khotyn.huangt Jan 15, 2013 10:26:35 PM
  */

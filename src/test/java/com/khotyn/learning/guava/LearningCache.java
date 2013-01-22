@@ -20,7 +20,7 @@ import com.google.common.cache.CacheLoader;
 import com.google.common.cache.LoadingCache;
 
 /**
- * ²âÊÔ Guava µÄ Cache
+ * æµ‹è¯• Guava çš„ Cache
  * 
  * @author khotyn.huangt Jan 17, 2013 10:56:00 PM
  */

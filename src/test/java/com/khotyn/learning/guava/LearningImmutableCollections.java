@@ -14,8 +14,8 @@ import com.google.common.collect.ImmutableList;
 import com.google.common.collect.ImmutableSet;
 
 /**
- * Immutable ��ص����ƺ��� web ���͵���Ŀ�к���ʹ�õ����� web
- * ���͵���Ŀ�У��󲿷ֵļ����඼��һ������Ĺ����д������ұ������ˣ�����˵�󲿷ֵļ��϶�ֻ��һ���߳��б����������������ж��߳����⣬����Ҳû��Ҫ�ر�ط�ֹ���̵߳����⣬���� guava �ⷴ����������Ŀ��������
+ * Immutable 相关的类似乎在 web 类型的项目中很难使用到，在 web
+ * 类型的项目中，大部分的集合类都在一个请求的过程中创建并且被销毁了，就是说大部分的集合都只在一个线程中被操作，根本不会有多线程问题，所以也没必要特别地防止多线程的问题，引入 guava 库反而增加了项目的依赖。
  * 
  * @author khotyn.huangt Jan 14, 2013 10:32:50 PM
  */

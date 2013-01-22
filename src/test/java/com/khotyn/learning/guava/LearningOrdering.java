@@ -11,7 +11,7 @@ import com.google.common.base.Function;
 import com.google.common.collect.Ordering;
 
 /**
- * Ordering ·½·¨Ìá¹©ÁËÖî¶àµÄÅÅĞò·½·¨£¬»¹ÊÇÍ¦·½±ãµÄ¡£
+ * Ordering æ–¹æ³•æä¾›äº†è¯¸å¤šçš„æ’åºæ–¹æ³•ï¼Œè¿˜æ˜¯æŒºæ–¹ä¾¿çš„ã€‚
  * 
  * @author khotyn.huangt Jan 7, 2013 8:03:23 AM
  */

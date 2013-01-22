@@ -7,7 +7,7 @@ import org.junit.Test;
 import com.google.common.base.Optional;
 
 /**
- * ×÷ÓÃ£º½«¶ÔÏó·â×°µ½ Optional ÖÐµÄ×÷ÓÃÊÇ³ÌÐòÔ±¿´µ½ Optional£¬¾Í»áÏëµ½Õâ¸ö Value ¿ÉÄÜÊÇ null µÄ£¬ÊÇ optional µÄ£¬ÕâÑù£¬·â×°¾Í´øÀ´ÁË³ÌÐòÓïÒåµÄÔöÇ¿¡£
+ * ä½œç”¨ï¼šå°†å¯¹è±¡å°è£…åˆ° Optional ä¸­çš„ä½œç”¨æ˜¯ç¨‹åºå‘˜çœ‹åˆ° Optionalï¼Œå°±ä¼šæƒ³åˆ°è¿™ä¸ª Value å¯èƒ½æ˜¯ null çš„ï¼Œæ˜¯ optional çš„ï¼Œè¿™æ ·ï¼Œå°è£…å°±å¸¦æ¥äº†ç¨‹åºè¯­ä¹‰çš„å¢žå¼ºã€‚
  * 
  * @author khotyn.huangt Jan 7, 2013 7:48:39 AM
  */

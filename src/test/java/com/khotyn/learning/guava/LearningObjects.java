@@ -7,7 +7,7 @@ import com.google.common.base.Objects;
 import com.google.common.collect.ComparisonChain;
 
 /**
- * Objects µÄ {@link ComparisonChain} ÓÃÆğÀ´ºÃ°ô£¬ÓÃÓÚÊµÏÖ {@link Comparable} ½Ó¿Ú·Ç³£·½±ã°¡¡£
+ * Objects çš„ {@link ComparisonChain} ç”¨èµ·æ¥å¥½æ£’ï¼Œç”¨äºå®ç° {@link Comparable} æ¥å£éå¸¸æ–¹ä¾¿å•Šã€‚
  * 
  * @author khotyn.huangt Jan 7, 2013 10:57:24 PM
  */

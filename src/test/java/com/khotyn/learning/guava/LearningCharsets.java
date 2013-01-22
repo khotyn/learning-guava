@@ -10,7 +10,7 @@ package com.khotyn.learning.guava;
 import org.junit.Test;
 
 /**
- * Ã»ÓĞ GBK£¬GB2312 Ö®ÀàµÄ±àÂë£¬¿ÓÄØ£¡
+ * æ²¡æœ‰ GBKï¼ŒGB2312 ä¹‹ç±»çš„ç¼–ç ï¼Œå‘å‘¢ï¼
  * 
  * @author khotyn.huangt Jan 21, 2013 8:02:40 PM
  */

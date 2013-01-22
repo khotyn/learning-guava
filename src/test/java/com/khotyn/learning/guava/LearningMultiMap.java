@@ -17,7 +17,7 @@ import com.google.common.collect.ArrayListMultimap;
 import com.google.common.collect.ListMultimap;
 
 /**
- * MultiMap£¬Ó¦¸ÃÓĞÕâÑùµÄÓ¦ÓÃ³¡¾°£¬Ò»¸ö key ¶ÔÓ¦µ½Ò»¸ö¼¯ºÏ¡£
+ * MultiMapï¼Œåº”è¯¥æœ‰è¿™æ ·çš„åº”ç”¨åœºæ™¯ï¼Œä¸€ä¸ª key å¯¹åº”åˆ°ä¸€ä¸ªé›†åˆã€‚
  * 
  * @author khotyn.huangt Jan 15, 2013 10:52:10 PM
  */

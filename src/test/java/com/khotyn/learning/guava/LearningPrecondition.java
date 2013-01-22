@@ -9,7 +9,7 @@ import com.google.common.base.Preconditions;
 import com.google.common.base.Strings;
 
 /**
- * {@link Preconditions} Ìá¹©ÁË¸÷ÖÖ¾²Ì¬·½·¨ÓÃÓÚ¼ì²é²ÎÊıµÄÌõ¼ş£¬ÓÃ static import ½øÀ´ºó£¬Ê¹ÓÃÆğÀ´·Ç³£ÓïÒå»¯¡£
+ * {@link Preconditions} æä¾›äº†å„ç§é™æ€æ–¹æ³•ç”¨äºæ£€æŸ¥å‚æ•°çš„æ¡ä»¶ï¼Œç”¨ static import è¿›æ¥åï¼Œä½¿ç”¨èµ·æ¥éå¸¸è¯­ä¹‰åŒ–ã€‚
  * 
  * @author khotyn.huangt Jan 7, 2013 7:53:10 AM
  */
