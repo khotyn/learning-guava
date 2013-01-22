@@ -1,10 +1,9 @@
 package com.khotyn.learning.guava;
 
-import static org.junit.Assert.assertEquals;
-
+import com.google.common.base.Optional;
 import org.junit.Test;
 
-import com.google.common.base.Optional;
+import static junit.framework.Assert.assertEquals;
 
 /**
  * 作用：将对象封装到 Optional 中的作用是程序员看到 Optional，就会想到这个 Value 可能是 null 的，是 optional 的，这样，封装就带来了程序语义的增强。

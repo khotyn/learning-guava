@@ -1,14 +1,13 @@
 package com.khotyn.learning.guava;
 
+import com.google.common.base.Objects;
+import com.google.common.collect.ComparisonChain;
 import org.junit.Assert;
 import org.junit.Test;
 
-import com.google.common.base.Objects;
-import com.google.common.collect.ComparisonChain;
-
 /**
  * Objects 的 {@link ComparisonChain} 用起来好棒，用于实现 {@link Comparable} 接口非常方便啊。
- * 
+ *
  * @author khotyn.huangt Jan 7, 2013 10:57:24 PM
  */
 public class LearningObjects {
@@ -25,7 +24,7 @@ public class LearningObjects {
             String firstName;
             String lastName;
 
-            public Person(String firstName, String lastName){
+            public Person(String firstName, String lastName) {
                 this.firstName = firstName;
                 this.lastName = lastName;
             }
@@ -45,7 +44,7 @@ public class LearningObjects {
             String firstName;
             String lastName;
 
-            Person(String firstName, String lastName){
+            Person(String firstName, String lastName) {
                 this.firstName = firstName;
                 this.lastName = lastName;
             }

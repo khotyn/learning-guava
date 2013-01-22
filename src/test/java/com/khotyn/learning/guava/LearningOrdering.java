@@ -1,14 +1,14 @@
 package com.khotyn.learning.guava;
 
-import java.util.Arrays;
-import java.util.Comparator;
-import java.util.List;
-
 import org.junit.Assert;
 import org.junit.Test;
 
 import com.google.common.base.Function;
 import com.google.common.collect.Ordering;
+
+import java.util.Arrays;
+import java.util.Comparator;
+import java.util.List;
 
 /**
  * Ordering 方法提供了诸多的排序方法，还是挺方便的。
